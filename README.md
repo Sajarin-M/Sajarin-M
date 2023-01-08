@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajarin M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajarin-m&label=Profile%20views&color=0e75b6&style=flat" alt="sajarin-m" /> </p>
-
+<h3 align="center">Passionate Frontend Developer from India | Driving User Experience and Innovation through Code</h3>
+<br/>
 - 🔭 I’m currently working at **TELORA AUTOMATION PVT LTD**
 
 - 📫 How to reach me **sajarinm@gmail.com**
