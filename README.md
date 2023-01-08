@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajarin M</h1>
 <h3 align="center">Passionate Frontend Developer from India | Driving User Experience and Innovation through Code</h3>
 <br/>
+
 - 🔭 I’m currently working at **TELORA AUTOMATION PVT LTD**
 
 - 📫 How to reach me **sajarinm@gmail.com**
