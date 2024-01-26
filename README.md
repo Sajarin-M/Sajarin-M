@@ -6,7 +6,7 @@
 <br />
 
 - 🔭 I’m currently working at **TELORA AUTOMATION PVT LTD** - 📫 How to reach me
-**sajarinm@gmail.com**
+  **sajarinm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -212,6 +212,28 @@
       alt="typescript"
       width="40"
       height="40"
+    />
+  </a>
+</p>
+
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/sajarinm">
+    <img
+      align="left"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      height="50"
+      width="210"
+      alt="sajarinm"
+    />
+  </a>
+  <a href="https://ko-fi.com/sajarinm">
+    <img
+      align="left"
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      height="50"
+      width="210"
+      alt="sajarinm"
     />
   </a>
 </p>
