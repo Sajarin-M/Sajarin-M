@@ -4,7 +4,7 @@
 </h3>
 <br />
 
-- 🔭 I’m currently working at **TELORA AUTOMATION PVT LTD** - 📫 How to reach me
+- 🔭 I’m currently working at <a href="https://nodeshift.com/"><b>NodeShift</b></a> - 📫 How to reach me
   **sajarinm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
